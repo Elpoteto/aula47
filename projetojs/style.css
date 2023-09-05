@@ -1,0 +1,15 @@
+.botao1 {
+    width: 250px;
+    height: 70px;
+    margin-left: 200px;
+    margin-top: 200px;
+    background-color: aliceblue;
+  }
+  
+.botao2{
+background-color: aliceblue;
+}
+body{
+background-color: black;
+
+}
